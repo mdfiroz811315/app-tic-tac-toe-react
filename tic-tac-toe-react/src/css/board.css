@@ -1,6 +1,6 @@
 :root {
 	--board-background: none;
-	--border-color: #f6546a;
+	--border-color: #e05a35;
 	--border-thickness: 5px;
 }
 
@@ -20,11 +20,11 @@
 	display: flex;
 	justify-content: center;
 	align-items: center;
-	color: whitesmoke;
+	color: rgb(57, 5, 129);
 	font-family: 'Bellefair', serif;
 	font-style: italic;
 	font-weight: 700;
-	font-size: 6rem;
+	font-size: 4rem;
 }
 
 .input-1{

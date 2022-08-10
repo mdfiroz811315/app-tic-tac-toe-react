@@ -10,7 +10,7 @@
 	flex-direction: column;
 	gap: 5vh;
 	backdrop-filter: 5px;
-	background-color: #101010;
+	background-color: #a49952;
 }
 
 .winner {
@@ -28,7 +28,7 @@
 	top: 50%;
 	left: 50%;
 	transform: translate(-50%, -70%);
-	background-color: rgba(195, 141, 158, 0.863);
+	background-color: rgba(90, 164, 93, 0.863);
 	backdrop-filter: 5px;
 	padding: .5rem;
 	padding-bottom: 1rem;
@@ -39,7 +39,7 @@
 	padding: .3em 1em .25em;	
 	font-weight: 600;
 	font-size: 2.5rem;
-	color: white;
+	color: rgb(239, 90, 10);
 	font-family: 'Bellefair', serif;
 	position:relative;
 	text-align: center;
@@ -64,7 +64,7 @@ button {
 	line-height: 1.5rem;
 	padding: .75rem 1.2rem;
 	text-align: center;
-	text-decoration: none #6B7280 solid;
+	text-decoration: none #074cd6 solid;
 	text-decoration-thickness: auto;
 	transition-duration: .2s;
 	transition-property: background-color, border-color,
@@ -77,7 +77,7 @@ button {
 }
 
 button:hover {
-	background-color: #374151;
+	background-color: #6e0606;
 }
 
 button:focus {
